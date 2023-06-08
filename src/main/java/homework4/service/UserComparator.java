@@ -1,6 +1,6 @@
 package homework4.service;
 
-import src.main.java.homework4.model.User;
+import homework4.model.User;
 
 import java.util.Comparator;
 

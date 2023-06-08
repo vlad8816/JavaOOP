@@ -1,6 +1,6 @@
 package homework4.service;
 
-import src.main.java.homework4.model.Student;
+import homework4.model.Student;
 
 import java.util.Iterator;
 import java.util.List;

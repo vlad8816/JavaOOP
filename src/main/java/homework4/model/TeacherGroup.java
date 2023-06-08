@@ -2,7 +2,7 @@ package homework4.model;
 
 import lombok.Getter;
 import lombok.ToString;
-import src.main.java.homework4.service.TeacherGroupIterator;
+import homework4.service.TeacherGroupIterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

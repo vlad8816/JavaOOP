@@ -1,6 +1,6 @@
 package homework4.repository;
 
-import src.main.java.homework4.model.Teacher;
+import homework4.model.Teacher;
 
 import java.util.ArrayList;
 import java.util.List;
